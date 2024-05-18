@@ -1,0 +1,29 @@
+html{
+    font-size: 22px;
+}
+body{
+    color:white;
+    background-color: black;
+}
+
+a {
+    color:aliceblue;
+}
+
+a:visited{
+    color:lightgray;
+}
+a:hover , a:active {
+    color:aqua
+}
+
+table , th , tr , td , caption{
+    border: 2px solid white;
+    padding: 1rem;
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+tfoot{
+    text-align: center;
+}
